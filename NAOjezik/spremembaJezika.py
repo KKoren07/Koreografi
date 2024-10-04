@@ -1,6 +1,5 @@
 from naoqi import ALProxy
 
-# Replace the IP address and port with your NAO's IP and port
 nao_ip = "192.168.0.130"
 port = 9559
 
